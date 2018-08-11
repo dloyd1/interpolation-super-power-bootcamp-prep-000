@@ -1,6 +1,5 @@
 # Write your #display_rainbow method here
-def display_rainbow (['red', 'orange', 'yellow', 'green', 'blue', 'indigo' 'violet'])
-puts
-end
+my_array = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo' 'violet']
 
-display_rainbow()
+index = 1
+
